@@ -1,0 +1,249 @@
+@media only screen and (max-width: 1024px) {
+    body #navigation .container-fluid .nav .nav-logo img {
+        width: 90%;
+    }body #navigation .container-fluid .nav .nav-item {
+        margin-left: 15px;
+    }body #navigation .container-fluid .nav .nav-item a {
+        font-size: 15px;
+    }body #section-1 .parts .first-part h1 {
+        font-size: 30px;
+    }body #section-1 .parts .first-part p {
+        font-size: 17px;
+    }body #section-1 .parts .first-part button {
+        padding: 8px 22px;
+        font-size: 14px;
+    }body #section-2 .container .strategy-hed h1 {
+        font-size: 25px;
+    }body #section-2 .container .strategy-paragraph p {
+        font-size: 15px;
+    }body #section-2 .container .row .round-1 img {
+        width: 50%;
+    }body #section-2 .container .row .round-1 h2 {
+        font-size: 25px;
+    }body #section-2 .container .row .round-1 p {
+        font-size: 20px;
+    }body #section-3 .container .sec-parts .part-2 p {
+        width: 30rem;
+        font-size: 17px;
+    }body #section-3 .container .youneed-head h1 {
+        font-size: 25px;
+    }body #section-4 .container .process-head h1 {
+        font-size: 25px;
+    }body #section-4 .container p {
+        font-size: 17px;
+    }body #section-4 .container .process-parts .process-p-1 .steps p {
+        font-size: 16.8px;
+    }body #section-4 .container .process-parts .process-p-1 .steps li {
+        font-size: 15px;
+    }body #footer .container-fluid .footer-data .underline .row li {
+        font-size: 14px;
+    }body #footer .container-fluid .footer-data .underline .column-1 p {
+        font-size: 14px;
+    }body #footer .container-fluid .footer-data .underline .row li h2 {
+        font-size: 22px;
+    }body #footer .container-fluid .footer-data .underline .row li {
+        font-size: 13px;
+    }body #footer .container-fluid .footer-data .underline .column-1 img {
+        width: 55%;
+    }body #footer .container-fluid .footer-data .underline .column-1 .input-group {
+        width: 90%;
+    }body #footer .container-fluid .footer-data .row .phone svg {
+        width: 24px;
+        margin-right: 10px;
+    }body #footer .container-fluid .footer-data .row .email svg {
+        width: 22px;
+        margin-right: 3px;
+    }body #footer .container-fluid .footer-data .row .location svg {
+        width: 40px;
+        margin-right: 10px;
+    }
+}
+
+
+@media only screen and (max-width: 768px){
+    body .container {
+        padding: 5px 55px;
+        max-width: 1119px;
+    }.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+        padding-right: 0px;
+        padding-left: 25px;
+    }body #navigation .nav .nav-logo img {
+        width: 75%;
+    }body #navigation .nav .navbar-nav .nav-item {
+        margin-left: 1px;
+    }body #navigation .nav .navbar-nav .nav-item a {
+        font-size: 15px;
+    }body #section-1 .parts {
+        padding: 10px 80px;
+    }body #section-1 .parts .first-part h1 {
+        font-size: 21px;
+    }body #section-1 .parts .first-part p {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }body #section-1 .parts .second-part img {
+        width: 98%;
+    }body #section-1 .parts .first-part button {
+        padding: 6px 18px;
+        font-size: 12px;
+    }body #section-2 .container .strategy-hed h1 {
+        font-size: 22px;
+    }body #section-2 .container .strategy-paragraph p {
+        font-size: 13px;
+    }body #section-2 .container .row .round-1 img {
+        width: 60%;
+    }body #section-2 .container .row .round-1 h2 {
+        font-size: 20px;
+    }body #section-2 .container .row .round-1 p {
+        font-size: 17px;
+    }body #section-3 .container .youneed-head h1 {
+        font-size: 22px;
+    }body #section-3 .container .sec-parts .part-2 p {
+        width: 25rem;
+        font-size: 13px;
+    }body #section-4 .container .process-head h1 {
+        font-size: 22px;
+    }body #section-4 .container p {
+        font-size: 14px;
+    }body #section-4 .container .process-parts .process-p-1 .steps h2 {
+        font-size: 20px;
+    }body #section-4 .container .process-parts .process-p-1 .steps p {
+        font-size: 13.8px;
+    }body #section-4 .container .process-parts .process-p-1 .steps li {
+        font-size: 13px;
+    }body #section-4 .container .process-parts .process-p-2 .step-images img {
+        width: 130%;
+        margin-top: 65px;
+    }body #footer .container-fluid .footer-data {
+        padding: 15px;
+    }body #footer .container-fluid .footer-data .column-1 p {
+        font-size: 14px;
+    }body #footer .container-fluid .footer-data  .column-1 img {
+        width: 50%;
+    }body #footer .container-fluid .footer-data  .column-1 .input-group .form-control {
+        font-size: 14px;
+    }body #footer .container-fluid .footer-data  .column-1 p {
+        font-size: 12px;
+    }body #footer .container-fluid .footer-data .column-1 .input-group {
+        width: 100%;
+    }body #footer .container-fluid .footer-data .column-1 .input-group .input-group-logo a svg{
+        width: 47px;
+        height: 54px;
+    }body #footer .container-fluid .footer-data .column-1 .input-group .form-control {
+        padding: 17px;
+        font-size: 13px;
+    }body #footer .container-fluid .footer-data .row li {
+        font-size: 12px;
+    }body #footer .container-fluid .footer-data .row li h2 {
+        font-size: 23px;
+    }body #footer .container-fluid .footer-data .row .phone svg {
+        width: 21px;
+    }body #footer .container-fluid .footer-data .row .location svg {
+        width: 37px;
+    }body #footer .container-fluid .footer-end .svgs svg {
+        margin-right: 7px;
+        width: 30px;
+    }body #footer .container-fluid .footer-end .paragraph p {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    body #navigation .nav .navbar-nav {
+       display: none;
+    }body #navigation .nav .menu-logo-responsive {
+        display: block;
+    }body #section-3 .container .sec-parts .part-2 p {
+        width: 21rem;
+        font-size: 13px;
+    }body #section-4 .container .process-parts .process-p-1 .steps .image img {
+        width: 115%;
+    }body #section-1 .parts {
+        padding: 10px 39px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    body .container {
+        padding: 5px 20px;
+        max-width: 1119px;
+    }body #section-3 .container .sec-parts .part-2 p {
+        width: 20rem;
+        font-size: 12px;
+    }body #section-4 .container .process-parts .process-p-1 .steps .image img {
+        width: 105%;
+    }
+}
+
+@media only screen and (max-width: 320px){
+    body .container {
+        padding: 5px 15px;
+        max-width: 1119px;
+    }.container, .container-lg, .container-md, .container-sm, .container-xl {
+        padding-right: 0px;
+        padding-left: 0px;
+    }body #navigation .nav  .nav-responsive{
+        display: none;
+    }body #navigation .nav  .menu-logo-responsive{
+        display: block;
+    }body #navigation  .nav .menu-logo-responsive #demo{
+        position: absolute;
+        right: 0px;
+        top: 100%;
+        background-color: red;
+        background-image: linear-gradient(#F89F05, #CF241C );
+        width: 100px;
+        text-align: center;
+        padding: 10px;
+    } body #section-1 .parts {
+        padding: 10px 15px;
+    }body #navigation  .nav .nav-logo img {
+        width: 55%;
+    }body #section-1 .parts .first-part h1 {
+        font-size: 21px;
+    }body #section-1 .parts .first-part p {
+        font-size: 12px;
+    }body #section-1 .parts .first-part button {
+        padding: 6px 15px;
+        font-size: 12px;
+    }body #section-1 .parts .second-part img {
+        width: 117%;
+    }body #section-2 .container .strategy-hed h1 {
+        font-size: 20px;
+    }body #section-2 .container .strategy-paragraph p {
+        font-size: 11px;
+    }body #section-2 .container .row .round-1 {
+        margin-top: 10px;
+    }body #section-2 .container .row .round-1 img {
+        width: 43%;
+    }body #section-3 .container .sec-parts .part-2 p {
+        width: 18rem;
+        font-size: 12px;
+    }body #section-4 .container .process-head h1 {
+        font-size: 20px;
+    }body #section-4 .container p {
+        font-size: 14px;
+        margin: 12px 0px;
+    }body #section-4 .container .process-parts .process-p-1 .steps .image img {
+        width: 100%;
+    }body #section-4 .container .process-parts .process-p-1 .steps h2 {
+        font-size: 18px;
+    }body #section-4 .container .process-parts .process-p-1 .steps p {
+        font-size: 12px;
+    }body #section-4 .container .process-parts .process-p-1 .steps li {
+        font-size: 13px;
+    }body #footer .container-fluid .footer-data .underline .row .phone svg {
+        width: 22px;
+    }body #footer .container-fluid .footer-data .underline .row .email svg {
+        width: 22px;
+        margin-right: 1px;
+    }body #footer .container-fluid .footer-data .row .location svg {
+        width: 24px;
+    }body #footer .container-fluid .footer-data .footer-end .svgs svg {
+        width: 22px;
+    }body #footer .container-fluid .footer-data .footer-end .svgs svg {
+        margin-right: 0px;
+    }body #footer .container-fluid .footer-data .footer-end .paragraph p {
+        font-size: 9px;
+    }
+}
+
